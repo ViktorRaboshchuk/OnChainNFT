@@ -1,13 +1,9 @@
-# Sample Hardhat Project
+#### Solidity Smark Contract for on chain NFT. Only Owner of minted NFT can train pers.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+###### [Contract](https://github.com/ViktorRaboshchuk/OnChainNFT/blob/origin/contracts/OnChainNftNew.sol)
 
-Try running some of the following tasks:
+###### [Tests](https://github.com/ViktorRaboshchuk/OnChainNFT/blob/origin/test/tests.js)
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+###### Tests coverage [GitHub Workflows](https://github.com/ViktorRaboshchuk/OnChainNFT/actions/runs/4316556452/jobs/7532482940)
+
+###### [Verified Contract Example](https://mumbai.polygonscan.com/address/0x8b233385332591046462a1a3be06276f2553f94c#code)
